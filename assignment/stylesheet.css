@@ -1,14 +1,16 @@
 body {
     margin: 0;
     background-image: url("./record.png");
+    background-repeat: repeat;
 }
 
-header {
+body .storename {
     background-color: #703F37;
     color: #C8B7A6;
     text-align: center;
 }
 
-main {
+body .storemain {
     background-color: lightgrey;
+    padding: 1em;
 }
